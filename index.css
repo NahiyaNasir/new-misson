@@ -11,7 +11,7 @@
     
 }
 .banner-sec{
-       background-image: url("../B9A1-New-Year-New-Mission/resources/Banner\ Image.png");
+       background-image: url("..//new-mission/assets/Banner\ Image.png");
    
       align-items: center;
     background-size:cover;
@@ -75,7 +75,7 @@ font-weight: 700  ;
 }
 
 .banner2-sec{
- background-image: url('../B9A1-New-Year-New-Mission/resources/Vectorrr.png');
+ background-image: url('..//new-mission/assets/Vectorrr.png');
   height: 600px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -125,20 +125,16 @@ margin-left: 150px;
 }
 .location{
 
-  background: linear-gradient(rgba(255, 0, 0, 1), rgba(255, 0, 0, 0)) ;
-  height: 450px;
-  position: relative;
-  top: 150px;
-  opacity: 50%;
-  
-  
-  
-
+ 
 }
   
-.location p{
-  
-  color: rgba(255, 0, 0, 1);
-  color:rgba(7, 2, 17, 1);
+.location-des{
+  position: relative;
+  margin-right: 380px;
+  font-weight: 600;
+  font-family: initial;
+  line-height: 50px;
   align-items: center;
+  font-size: 2rem;
+  
 }
