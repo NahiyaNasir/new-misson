@@ -75,7 +75,7 @@ font-weight: 700  ;
 }
 
 .banner2-sec{
- background-image: url('..//new-mission/assets/Vectorrr.png');
+ background-image: url('assets/Vectorrr.png');
   height: 600px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -123,10 +123,7 @@ margin-left: 150px;
  line-height: 20px;
  margin-top: 40px;
 }
-.location{
 
- 
-}
   
 .location-des{
   position: relative;
