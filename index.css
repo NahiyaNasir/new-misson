@@ -11,7 +11,7 @@
     
 }
 .banner-sec{
-       background-image: url("..//new-mission/assets/Banner\ Image.png");
+       background-image: url("assets/Banner Image.png");
    
       align-items: center;
     background-size:cover;
@@ -123,15 +123,54 @@ margin-left: 150px;
  line-height: 20px;
  margin-top: 40px;
 }
+.location{
+  background-image: linear-gradient(180deg, rgba(255, 0, 0, 1), rgba(255, 0, 0, 0));
+  height: 480px;
+  position: relative;
+  top: 100px;
+ 
+ opacity: 0.5;
 
+}
   
 .location-des{
   position: relative;
-  margin-right: 380px;
-  font-weight: 600;
+  margin-left: 600px;
+  top: 150px;
+  font-weight: 700;
   font-family: initial;
   line-height: 50px;
-  align-items: center;
+  text-decoration: double;
   font-size: 2rem;
+
+}
+.btn2{
+  background-color: red;
+  color: white;
+  padding: 5px;
+  margin-right: 600px;
+  height: 24px;
+  border: none;
+  font-size: 1rem;
   
+}
+.section{
+  display: flex;
+  justify-content: space-around;
+  height: 700px;
+  background-color: wheat;
+ 
+}
+.offer-img{
+  position: relative;
+  top: 150px;
+  margin-right: 150px;
+  
+  border: 50%;
+  border:  8px solid  red;
+}
+.offer-desc{
+  position: relative;
+  top: 250px;
+  right: 80px;
 }
