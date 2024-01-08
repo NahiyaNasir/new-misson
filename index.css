@@ -1,0 +1,144 @@
+
+*{
+    margin: 0;
+    padding: 0
+    ;
+   
+}
+.container{
+   max-width: 1000vh;
+    margin: 0px;
+    
+}
+.banner-sec{
+       background-image: url("../B9A1-New-Year-New-Mission/resources/Banner\ Image.png");
+   
+      align-items: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 800px;
+border-radius: 18px; 
+}
+
+
+
+.banner h1, h2 {
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 40px;
+    color: whitesmoke;
+   top: 330px;
+   left: 650px;
+    font-size: 3rem;
+      position: relative;
+
+   /* font-family: 'Inter', sans-serif;*/
+font-family: 'Merriweather', serif;
+font-weight: 700  ;
+    
+}
+.heading{
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+.catagories img{
+   position: relative;
+   top: 100px;
+   left: 450px;
+  
+}
+.catagories-info{
+ color: red;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+  position: relative;
+  left: 700px;
+  top: 50px;
+  
+}
+.catagories-info h1{
+  font-size: 5rem;
+}
+.cata-p{
+  color: black;
+  font-weight: 700;
+  font-size: 3rem;
+}
+.catagories p{
+  font-weight: 500;
+  align-items: center;
+  margin-bottom: 16px;
+  font-size: 2rem;
+
+}
+
+.banner2-sec{
+ background-image: url('../B9A1-New-Year-New-Mission/resources/Vectorrr.png');
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  top: 100px;
+  border-radius: 18px;
+}
+.banner2heading{
+  
+font-family: 'Merriweather' ;
+font-weight: 900;
+line-height: 83px;
+font-size: 4rem;
+color: white;
+letter-spacing: 4px;
+top: 150px;
+position: relative;
+margin-left: 150px;
+
+}
+
+.div{
+  position: relative;
+ 
+ margin-left: 1200px;
+ bottom: 400px;
+}
+.banner2-para{
+  font-family: monospace;
+  font-weight: 400;
+  line-height: 30px;
+  color: wheat;
+  font-size: 1.5rem;
+   position: relative;
+   top: 200px;
+   margin-left: 150px;
+   margin-top: 20px;
+}
+.btn{
+  border-style: none;
+  font-size: 0.9rem;
+ background-color:aqua;
+ font-weight: 500;
+ font-family: inherit;
+ line-height: 20px;
+ margin-top: 40px;
+}
+.location{
+
+  background: linear-gradient(rgba(255, 0, 0, 1), rgba(255, 0, 0, 0)) ;
+  height: 450px;
+  position: relative;
+  top: 150px;
+  opacity: 50%;
+  
+  
+  
+
+}
+  
+.location p{
+  
+  color: rgba(255, 0, 0, 1);
+  color:rgba(7, 2, 17, 1);
+  align-items: center;
+}
