@@ -28,7 +28,7 @@ border-radius: 18px;
     justify-content: center;
     
     height: 40px;
-    color: whitesmoke;
+    color:black;
    top: 330px;
    left: 650px;
     font-size: 3rem;
@@ -45,7 +45,7 @@ font-weight: 900  ;
   position: relative;
   top: 330px;
   left: 700px;
-  color: whitesmoke;
+  color: black;
   font-family: 'Merriweather';
   font-weight: 400;
 
