@@ -426,9 +426,13 @@ padding: 3px;
 
 }
 .icons{
-  margin-top: 250px;
+  margin-top: 350px;
   margin-right: 100px;
   
+}
+.icons:hover{
+ transition: 2s;
+ transform: scale(1.1);
 }
 
 .phone-number{
